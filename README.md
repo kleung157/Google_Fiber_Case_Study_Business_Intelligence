@@ -29,7 +29,7 @@
 ## 1. Capture
 **Overview:**
 
-Google Fiber provides fiber optic internet to people and businesses. The customer service division monitors and improves customer satisfaction. The goal is to understand how often customers phone customer support again after their first inquiry and exploring trends in repeat callers. The insights could then be used to reduce call volumes.
+Google Fiber provides fiber optic internet to people and businesses. The customer service division monitors and improves customer satisfaction. The goal is to understand how often customers phone customer support again after their first inquiry and identify trends in repeat callers.
 
 **Business Task:**
 
